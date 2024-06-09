@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, & Javascript 
 - 💞️ I’m looking to collaborate on any beginer friendly repos
 - 📫 How to reach me: www.linkedin.com/in/maxwellmitchell93
-- ⚡ Fun fact: I'm currently enrolled in a coading edex bootcamp at ASU. Currently searching to transition into the tech industry.
+- ⚡ Fun fact: I'm enrolled in a coading edex bootcamp at ASU. Currently searching to transition into the tech industry.
 
 <!---
 maxwellmitchell93/maxwellmitchell93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
